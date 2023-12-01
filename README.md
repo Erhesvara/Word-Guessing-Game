@@ -8,7 +8,7 @@ This project demonstrates a counting of words using the python console interacti
 
 Feature:
 * Allows users to guess words
-* Determines the word count of a given sentence
+* Provides feedback on correct or incorrect guesses
 
 ### Built With
 * Python 
