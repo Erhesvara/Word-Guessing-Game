@@ -1,10 +1,8 @@
 # Word-Guessing Game Using Python
 
-This project presents an interactive word guessing game using Python's console.
-
 ## About The Project
 
-This project demonstrates a counting of words using the python console interaction.
+This project presents an interactive word guessing game using Python's console.
 
 Feature:
 * Allows users to guess words
