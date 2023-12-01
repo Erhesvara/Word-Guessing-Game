@@ -7,7 +7,7 @@ This project presents an interactive word guessing game using Python's console.
 This project demonstrates a counting of words using the python console interaction.
 
 Feature:
-* Counts the number of words entered by the user
+* Allows users to guess words
 * Determines the word count of a given sentence
 
 ### Built With
