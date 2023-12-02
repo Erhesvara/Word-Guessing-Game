@@ -1,7 +1,6 @@
 # Word-Guessing Game Using Python
 
 ## About The Project
-
 This project presents an interactive word guessing game using Python's console.
 
 Feature:
@@ -11,7 +10,6 @@ Feature:
 ### Built With
 * Python 
 * Pycharm
-
 
 
 ## Getting Started
