@@ -33,5 +33,6 @@ Ensure the following prerequisites are met before getting started:
    python Word-Counter.py
    ```
 
+
 ## Usage
 Once the Word-Counter.py script is executed, engage with its functions to participate in the word guessing game.
